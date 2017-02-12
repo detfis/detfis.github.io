@@ -23,7 +23,7 @@ twitter_username: detfis
 github_username:  detfis
 
 show_downloads: false
-google_analytics:
+google_analytics: false
 
 # Build settings
 markdown: kramdown
