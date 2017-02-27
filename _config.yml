@@ -23,7 +23,7 @@ twitter_username: detfis
 github_username:  detfis
 
 show_downloads: false
-google_analytics: false
+google_analytics: true
 
 permalink: /:title/
 
