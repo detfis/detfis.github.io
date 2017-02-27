@@ -1,4 +1,16 @@
 ---
 ---
 
+header {
+  .header_link {
+    text-decoration: none;
+    color: rgb(181, 232, 83);
+  }
+  #menu {
+    a {
+      color: rgb(181, 232, 83);
+    }
+  }
+}
+
 @import 'jekyll-theme-hacker';
