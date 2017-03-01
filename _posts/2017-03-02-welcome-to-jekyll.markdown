@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Welcome to Jekyll!"
-date:   2017-02-02 23:51:27 +0100
+date:   2088-03-02 23:51:27 +0100
 categories: tech dajsiepoznac2017
 description: This is description
 comments: true
