@@ -24,7 +24,7 @@ Couple of things have changed recently.
 
 **Firstly** - I got sick of my excuses.
 
-Sure - I still not confident enough in my English capabilities, but hey, they are going to bet better along the way.
+Sure - I'm still not confident enough in my English capabilities, but hey, they are going to bet better along the way.
 
 Sure - I have exactly 0 experience in creating online content, but there is no other way to acquire those skills than actually start doing them.
 
