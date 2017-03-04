@@ -6,7 +6,7 @@ permalink: /about/
 
 ![kamil]({{ site.url }}/assets/images/kamil.jpg)
 
-My name is Kamil and I'm software developer living in Warsaw, Poland.
+My name is Kamil and I'm a software developer living in Warsaw, Poland.
 
 I love making software and I want to be as good in it as I can.
 
