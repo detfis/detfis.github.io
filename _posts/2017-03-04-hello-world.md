@@ -40,7 +40,7 @@ And this really scared the shit out of me.
 
 **Thirdly** - now I'm confident that I have something valuable to share. 
 
-I've got couple of years industry experience, I've seen projects succeed,
+I've got couple years of industry experience, I've seen projects succeed,
 I've seen projects failed, I've worked in good companies, I've worked in bad ones, I've used great technologies and crappy ones. All learned the hard way. 
 
 I've got to the point where I feel the internal urge the share my knowledge and experience with others and to contribute to the community I got so much from in the past.
