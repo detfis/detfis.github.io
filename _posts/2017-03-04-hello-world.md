@@ -28,7 +28,7 @@ Sure - I still not confident enough in my English capabilities, but hey, they ar
 
 Sure - I have exactly 0 experience in creating online content, but there is no other way to acquire those skills than actually start doing them.
 
-Sure - I'm busy guy, but if I'm honest, if I stopped wasting time on FB, YT or any other time wasters I would be able to write at least one post per day.
+Sure - I'm busy guy, but if I'm honest, if I stopped wasting time on FB, YT or any other time-wasters, I would be able to write at least one post per day.
 
 I don't HAVE TO use Wordpress - I'm running this blog in Jekyll, which is cool.
 
