@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 categories: dajsiepoznac2017
-description: First post on RottenSoftware.com
+description: Welcome on RottenSoftware.com. Everyone has to start somewhere, I start here.
 ---
 
 # OK, let's start! #
