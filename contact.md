@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 
-This is contact page
+Email: detfis at gmail dot com
