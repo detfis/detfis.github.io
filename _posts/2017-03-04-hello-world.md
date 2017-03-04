@@ -18,7 +18,7 @@ Couple of them:
 * I want to blog in English but I'm not fluent enough
 * many, many, many more
 
-## Why this time is different? ##
+## Why is this time different? ##
 
 Couple of things have changed recently. 
 
