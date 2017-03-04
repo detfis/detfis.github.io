@@ -26,11 +26,11 @@ Couple of things have changed recently.
 
 Sure - I still not confident enough in my English capabilities, but hey, they are going to bet better along the way.
 
-Sure - I have exactly 0 experience in creating content, but there is no other way to acquire those skills than actually start doing it.
+Sure - I have exactly 0 experience in creating online content, but there is no other way to acquire those skills than actually start doing them.
 
 Sure - I'm busy guy, but if I'm honest, if I stopped wasting time on FB, YT or any other time wasters I would be able to write at least one post per day.
 
-I don't HAVE TO use wordpress - I'm running this blog in Jekyll, which is cool.
+I don't HAVE TO use Wordpress - I'm running this blog in Jekyll, which is cool.
 
 
 **Secondly** - I realized that time, which is our the most valuable asset is actually not unlimited.
@@ -43,11 +43,11 @@ And this really scared the shit out of me.
 I've got couple of years industry experience, I've seen projects succeed,
 I've seen projects failed, I've worked in good companies, I've worked in bad ones, I've used great technologies and crappy ones. All learned the hard way. 
 
-I've got to the point where I feel the internal urge the share my knowledge and experience with others and to contribute to she space from I got so much in the past.
+I've got to the point where I feel the internal urge the share my knowledge and experience with others and to contribute to the community I got so much from in the past.
 
 **Lastly** - I needed final stimulus to get down to things and start acting. 
 
-And I got one. This incentive was ["Daj sie poznać" ](http://devstyle.pl/daj-sie-poznac/) contest organized by Maciej Aniserowicz, owner of the awesome [DevStyle.pl](http://devstyle.pl) blog. I committed to writing 2 technical posts per week for 12 weeks and working on open source project. It sounds to cool to pass up that opportunity.
+And I got one. This incentive was ["Daj sie poznać"](http://devstyle.pl/daj-sie-poznac/) contest organized by Maciej Aniserowicz, owner of the awesome [DevStyle.pl](http://devstyle.pl) blog. I committed to writing 2 technical posts per week for 12 weeks and working on open source project. It sounds to cool to pass up that opportunity.
 
 So, this is my _Hello World!_ post, there will be more so stay tuned!
 

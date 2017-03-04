@@ -10,11 +10,11 @@ My name is Kamil and I'm software developer living in Warsaw, Poland.
 
 I love making software and I want to be as good in it as I can.
 
-In this blog I'll share with you my experience, talk about cool technologies and probably rant about what pisses me off in IT world from time to time.
+In this blog I'll share with you my experience, write about cool technologies and probably rant about what pisses me off in IT world from time to time.
 
 First and foremost, I want you to find some value in my posts.
 
-If you found something interesting here, don't hasitate to give me a shout - it would mean world to me!
+If you find something interesting here, don't hesitate to give me a shout - it would mean world to me!
 
 
 
