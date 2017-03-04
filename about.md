@@ -4,6 +4,18 @@ title: About
 permalink: /about/
 ---
 
+![kamil]({{ site.url }}/assets/images/kamil.jpg)
 
-This is about page
+My name is Kamil and I'm software developer living in Warsaw, Poland.
+
+I love making software and I want to be as good in it as I can.
+
+In this blog I'll share with you my experience, talk about cool technologies and probably rant about what pisses me off in IT world from time to time.
+
+First and foremost, I want you to find some value in my posts.
+
+If you found something interesting here, don't hasitate to give me a shout - it would mean world to me!
+
+
+
 

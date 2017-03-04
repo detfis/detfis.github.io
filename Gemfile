@@ -22,6 +22,7 @@ gem "jekyll", "3.4.0"
 
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem 'jekyll-compose', group: [:jekyll_plugins]
    # gem 'github-pages', '~> 120'
 end
 
