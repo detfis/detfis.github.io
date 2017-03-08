@@ -7,11 +7,11 @@ description: Shyshka - my open source project to help you learn foreign language
 
 # Let me introduce you to Shyshka! #
 
-I'm participating in ["Daj sie poznać"](http://devstyle.pl/daj-sie-poznac/) contest and one of requirements is to create open source project and to blog about it at least once a week (you need to publish 2 posts a week - one project related and the second can be about broadly defined IT).
+I'm participating in ["Daj sie poznać"](http://devstyle.pl/daj-sie-poznac/) contest and one of the requirements is to create open source project and to blog about it at least once a week (you need to publish 2 posts a week - one project related and the second can be about broadly defined IT).
 
 ## What? ##
 
-My project is called [Shishka](https://github.com/detfis/shyshka) - it's an online personal dictionary. This is an open source project and it can be found on github [here](https://github.com/detfis/shyshka).
+My project is called [Shyshka](https://github.com/detfis/shyshka) - it's an online personal dictionary. This is an open source project and it can be found on github [here](https://github.com/detfis/shyshka).
 
 ## Why? ##
 
@@ -27,7 +27,7 @@ I had a couple of requirements:
 * adding new words and phrases has to be as easy as possible
 * I need the ability to search through my dictionary
 
-After a small research I found out that there is nothing that meets my requirements. This is when the idea of project [Shishka](https://github.com/detfis/shyshka) was born. 
+After a small research I found out that there is nothing that meets my requirements. This is when the idea of project [Shyshka](https://github.com/detfis/shyshka) was born. 
 
 ## How? ##
 
