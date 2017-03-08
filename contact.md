@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 
-Email: detfis at gmail dot com .
+Email: detfis at gmail dot com
