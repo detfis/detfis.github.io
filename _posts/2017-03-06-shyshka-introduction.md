@@ -47,5 +47,3 @@ I will write more about this awesome framework in one of the future posts.
 ![dajsiepoznac2017]({{ site.url }}/assets/images/dsp2017-1.png)
 
 Written on {{ page.date | date: "%B %e, %Y" }}
-
-
