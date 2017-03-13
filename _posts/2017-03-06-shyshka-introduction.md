@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shyshka-introduction
-categories: dajsiepoznac2017 hanami
+categories: dajsiepoznac2017 hanami shyshka
 description: Shyshka - my open source project to help you learn foreign languages
 ---
 
