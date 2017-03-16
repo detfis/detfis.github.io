@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dsp_post
 title: Generate project in Hanami with PostgreSQL
 categories: dajsiepoznac2017 hanami shyshka
 description: Generate Hanami project with PostgreSQL
@@ -67,8 +67,3 @@ Now your web app is running and after typing `http://localhost:2300` in your bro
 OK, that's it for today. We managed to setup development environment, generate and run our first [Hanami](http://hanamirb.org/) project with [PostgreSQL](https://www.postgresql.org/) as a database. In next post, we will learn how to add resources to the project and how to write tests. Code for [Shyshka](https://github.com/detfis/shyshka) is open sourced and can be found [here](https://github.com/detfis/shyshka). 
 
 Thanks and see you soon!
-
-![dajsiepoznac2017]({{ site.url }}/assets/images/dsp2017-1.png)
-
-Written on {{ page.date | date: "%B %e, %Y" }} 
-

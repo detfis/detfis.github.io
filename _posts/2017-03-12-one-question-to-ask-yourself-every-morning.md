@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dsp_post
 title: One question to ask yourself every morning
 categories: dajsiepoznac2017 hanami
 description: There is one question I ask myself every morning. I'll share with you what this question is.
@@ -62,8 +62,3 @@ Let's think about it for a second. In the first case, one question is coming to 
 If you're worried that you are a junior level developer and won't have anything valuable to offer - it's completely not true and stop thinking like that. In the first place - you've been offered a job because someone thought you will be helpful for the company, so you're already expected to deliver value. Secondly, if your start actively looking for ways to add value, you'll grow as a developer much faster and you will boost your career.
 
 As you see, there are potentially endless options to deliver value, to add something extra. What I did is, I gave you some examples, not everything might be applicable in your current company, but some of the things definitely will be. The only limit is your ingenuity and the results will surprise you.
-
-![dajsiepoznac2017]({{ site.url }}/assets/images/dsp2017-1.png)
-
-Written on {{ page.date | date: "%B %e, %Y" }}
-

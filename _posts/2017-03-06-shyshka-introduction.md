@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dsp_post
 title: Shyshka-introduction
 categories: dajsiepoznac2017 hanami shyshka
 description: Shyshka - my open source project to help you learn foreign languages
@@ -43,7 +43,3 @@ I'm a big [ruby](https://www.ruby-lang.org/) enthusiast, but I'm not so fond of 
 * and it's threadsafe. 
 
 I will write more about this awesome framework in one of the future posts.
-
-![dajsiepoznac2017]({{ site.url }}/assets/images/dsp2017-1.png)
-
-Written on {{ page.date | date: "%B %e, %Y" }}

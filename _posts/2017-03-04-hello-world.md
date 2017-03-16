@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dsp_post
 title: "Hello World!"
 categories: dajsiepoznac2017
 description: Welcome on RottenSoftware.com. Everyone has to start somewhere, I start here.
@@ -50,8 +50,3 @@ I've got to the point where I feel the internal urge the share my knowledge and 
 And I got one. This incentive was ["Daj sie poznać"](http://devstyle.pl/daj-sie-poznac/) contest organized by Maciej Aniserowicz, owner of the awesome [DevStyle.pl](http://devstyle.pl) blog. I committed to writing 2 technical posts per week for 12 weeks and working on open source project. It sounds to cool to pass up that opportunity.
 
 So, this is my _Hello World!_ post, there will be more so stay tuned!
-
-![dajsiepoznac2017]({{ site.url }}/assets/images/dsp2017-1.png)
-
-Written on {{ page.date | date: "%B %e, %Y" }}
-  
