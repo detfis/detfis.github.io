@@ -2,7 +2,7 @@
 layout: dsp_post
 title: Generate project in Hanami with PostgreSQL
 categories: dajsiepoznac2017 hanami shyshka
-description: Generate Hanami project with PostgreSQL
+description: In this post we will generate Hanami project with PostgreSQL as a database.
 ---
 
 # Generate project in Hanami with PostgreSQL
@@ -27,7 +27,7 @@ The next step is to install [Hanami](http://hanamirb.org/) gem. You can do it by
 gem install hanami
 ```
 
-If this run successfully, we can generate our first [Hanami](http://hanamirb.org/) project: 
+If this runs successfully, we can generate our first [Hanami](http://hanamirb.org/) project: 
 
 ```ruby
 hanami new shyshka --database=postgres
