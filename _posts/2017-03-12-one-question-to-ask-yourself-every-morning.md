@@ -1,7 +1,7 @@
 ---
 layout: dsp_post
 title: One question to ask yourself every morning
-categories: dajsiepoznac2017 hanami
+categories: dajsiepoznac2017
 description: There is one question I ask myself every morning. I'll share with you what this question is.
 ---
 

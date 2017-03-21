@@ -29,7 +29,7 @@ describe 'Visit home page' do
 end
 ```
 
-When we type `bundle exec rake test` - which is the command to run all the test in our application we should see the following error:
+When we type `bundle exec rake test` - which is the command to run all the test in our application - we should see the following error:
 
 ```
 Run options: --seed 47149
@@ -69,7 +69,7 @@ We should see the following output:
       insert  apps/web/config/routes.rb
 ```
 
-To make our feature test pass the last thing is to change the **apps/web/templates/words/index.html.erb** file. 
+To make our feature test pass, the last thing is to change the **apps/web/templates/words/index.html.erb** file. 
 
 ```html
 <h1>All words</h1>
