@@ -1,6 +1,6 @@
 ---
 layout: dsp_post
-title: Shysha - first feature
+title: Shyshka - first feature
 categories: dajsiepoznac2017 hanami shyshka
 description: We will add first feature to Shyshka in a BDD way.
 ---
