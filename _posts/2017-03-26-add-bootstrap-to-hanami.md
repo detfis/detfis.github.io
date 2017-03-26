@@ -7,7 +7,7 @@ description: Easy way to add Bootstrap to Hanami project
 
 # Add Bootstrap to Hanami project #
 
-In [previous post](({{ site.url }}/first-feature-in-hanami/)) on [Shyshka](https://github.com/detfis/shyshka) web app we ended up having list of words with their translations. This list has no CSS styles and we will add a tool that is going to improve an appearance of the project. My choice is to add [Bootstrap](http://getbootstrap.com/). 
+In [previous post]({{ site.url }}/first-feature-in-hanami/) on [Shyshka](https://github.com/detfis/shyshka) web app we ended up having list of words with their translations. This list has no CSS styles and we will add a tool that is going to improve an appearance of the project. My choice is to add [Bootstrap](http://getbootstrap.com/). 
 
 ## What is Bootstrap? ##
 
@@ -53,7 +53,7 @@ All files are placed correctly and now we can actually use those libraries in ou
 
 First, require them in the **apps/web/templates/application.html.erb**
 
-```html
+```
     <%= javascript 'jquery-3.2.0.min' %>
     <%= javascript 'bootstrap.min' %>
     <%= stylesheet 'bootstrap' %>
