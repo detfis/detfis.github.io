@@ -7,7 +7,7 @@ description: Introduction of data modeling tools in Hanami - Entities and Reposi
 
 # Hanami - Entities and Repositories
 
-In [one of the previous posts]({{ site.url }}/first-feature-in-hanami/) we have created a list of the words. This list has one big flaw, though - it's hard-coded. We would like to display dynamic data there. To achieve this we will introduce two parts of [Hanami](http://hanamirb.org/) ecosystem responsible for dealing with data - entities and repositories. 
+In [one of the previous posts]({{ site.url }}/first-feature-in-hanami/) we have created a list of words. This list has one big flaw, though - it's hard-coded. We would like to display dynamic data there. To achieve this we will introduce two parts of [Hanami](http://hanamirb.org/) ecosystem responsible for dealing with data - entities and repositories. 
 
 ## What are Entities?
 
@@ -59,7 +59,7 @@ This will generate following output:
       create  spec/shyshka/repositories/word_repository_spec.rb
 ```
 
-Notice that files are placed to the *lib/project_name* folder, not to the *apps/web* folder. This is because they define our domain model and this will be shared across multiple application that we could create under one [Hanami](http://hanamirb.org/) project.
+Notice that files are placed in the *lib/project_name* folder, not to the *apps/web* folder. This is because they define our domain model and this will be shared across multiple application that we could create under one [Hanami](http://hanamirb.org/) project.
 
 ## Generate migration
 
@@ -214,7 +214,7 @@ Run test and make sure that all the tests are passing.
 Next step is to change the view as well. We will stop here for a second to think what we actually want to achieve.
 We want to handle 2 scenarios:
 - list all the words we have in our database
-- display message that we don't have any words yet if we just starting using our system
+- display message that we don't have any words yet if we just started using our system
 
 We also want to make sure that our template will have all the data accessible that it needs to render the view. In our case it's the list of words.
 
