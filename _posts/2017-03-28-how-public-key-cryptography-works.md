@@ -13,10 +13,10 @@ Couple years ago when asymmetric cryptography was introduced to me I was a littl
 
 ## Traditional cryptography ##
 
-When we think about how to encrypt some message the first solution that comes to our mind something called *symmetric cryptography*. 
+When we think about how to encrypt some message, the first solution that comes to our mind is something called *symmetric cryptography*. 
 
 Symmetric cryptography is the simplest and most naive way of encrypting messages. Let's say we want to encrypt a word "HELLO".
-To do so we need a *secret key* that will transform our message to something that looks like a random string, let's say "QWERT". To decrypt the message we have to use the same secret key. The process looks like this:
+To do so we need a *secret key* that will transform our message into something that looks like a random string, let's say "QWERT". To decrypt the message we have to use the same secret key. The process looks like this:
 
 ```
 HELLO -key-> QWERT -key-> HELLO
@@ -31,9 +31,9 @@ This way of encrypting data entails some problems:
 
 ## Asymmetric cryptography to the rescue! ##
 
-Asymmetric cryptography addresses this problem by requiring not one, but two encryption keys, know as key-pair.
+Asymmetric cryptography addresses this problem by requiring not one, but two encryption keys, known as key-pair.
 
-They are generated in that way that you can't guess one key from the other and they're linked in such way that anything encrypted with keyA can be decrypted with keyB (and the other way around is also true - the message encrypted with keyB can be decrypted with keyA).
+They are generated in that way that you can't guess one key from the other and they're linked in such a way that anything encrypted with keyA can be decrypted with keyB (and the other way around is also true - the message encrypted with keyB can be decrypted with keyA).
 
 ```
 HELLO -keyA-> QWERT -keyB-> HELLO
