@@ -22,7 +22,7 @@ To do so we need a *secret key* that will transform our message into something t
 HELLO -key-> QWERT -key-> HELLO
 ```
 
-An example of this symmetric cryptography is [link]Cesear Code.
+An example of this symmetric cryptography is [Cesear Code](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 This way of encrypting data entails some problems:
 - both parties need to have access to the same secret key
