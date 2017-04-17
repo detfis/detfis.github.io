@@ -103,8 +103,6 @@ describe Web::Controllers::Words::Update do
 
     action.word.name.must_equal params[:word][:name]
     action.word.translation.must_equal params[:word][:translation]
-
-    response[0].must_equal 200
   end
 
   it 'redirects the user to the words listing' do
