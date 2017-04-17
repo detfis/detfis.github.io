@@ -82,40 +82,7 @@ bundle exec hanami generate action web words#update --method=patch
 
 As we see - we have created **_update_** action that will handle PATCH requests. PATCH and PUT are the HTTP methods that are reserved for updating existing records. The difference between PUT and PATCH is quite subtle (PUT should be used when you update all attributes, PATCH when only a subset of those attributes) and [Hanami](http://hanamirb.org/) lets you use both for updating records.
 
-Again, we will follow [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) pattern and we will start with the spec. Open **_spec/web/controllers/words/update_spec.rb_** and add following code:
-
-```ruby
-require 'spec_helper'
-require_relative '../../../../apps/web/controllers/words/update'
-
-describe Web::Controllers::Words::Update do
-  let(:action) { Web::Controllers::Words::Update.new }
-  
-  before do
-    WordRepository.new.clear
-    @word = WordRepository.new.create(name: 'lew', translation: 'lion')
-  end
-
-  let(:params) { Hash[id: @word.id, word: { name: 'lew_2', translation: 'lion_2' }] }
-
-  it 'updates a new word' do
-    response = action.call(params)
-
-    action.word.name.must_equal params[:word][:name]
-    action.word.translation.must_equal params[:word][:translation]
-  end
-
-  it 'redirects the user to the words listing' do
-    response = action.call(params)
-
-    response[0].must_equal 302
-    response[1]['Location'].must_equal '/'
-  end
-end
-
-```
-
-Last step before making our feature tests pass is adding code to the update action. Add the following code to the **_apps/web/controllers/words/update.rb**:
+Last step before making our feature test pass is adding code to the update action. Add the following code to the **_apps/web/controllers/words/update.rb**:
 
 ```ruby
 module Web::Controllers::Words
