@@ -11,7 +11,7 @@ description: How to upgrade Hanami app to version 1.0.0
 
 ## How to upgrade to version 1.0?
 
-There is not that much we need to do. [Hanami](http://hanamirb.org/) maintainers provide description what should be changed [here](http://hanamirb.org/guides/upgrade-notes/v100/).
+There is not that much we need to do. [Hanami](http://hanamirb.org/) maintainers provide description of what should be changed, you can find it [here](http://hanamirb.org/guides/upgrade-notes/v100/).
 
 So, the first thing we need to do is to update the *Gemfile*
 
@@ -54,7 +54,7 @@ Delete then all **_logger_** refences from the **_apps/web/application.rb_** fil
   end
 ```
 
-Note, that this should be added after the general settings like **_mount_**, **_model_** or **_mailer_**.
+Note that this should be added after the general settings like **_mount_**, **_model_** or **_mailer_**.
 
 The last step is to add **_lib/shyshka.rb_** file that will define our main module. This file should look like this:
 
