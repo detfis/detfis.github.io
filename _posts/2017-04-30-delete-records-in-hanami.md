@@ -128,4 +128,4 @@ After adding this our feature test should pass.
 
 ## Summary
 
-Thanks to what we have achieved today we have a full CRUD application. We can add, edit and delete words, everything with a pretty good coverage. Now we are in the good position for adding more advanced functionalities, so stay tuned.
+Thanks to what we have achieved today we have a full CRUD application. We can add, edit and delete words, everything with a pretty good test coverage. Code can be found [here](https://github.com/detfis/shyshka). Now we are in the good position for adding more advanced functionalities, so stay tuned.

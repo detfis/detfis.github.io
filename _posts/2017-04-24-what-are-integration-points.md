@@ -9,7 +9,7 @@ description: What are integration points, why they are an unavoidable threat to 
 
 Recently I've read [Release It!Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it) - one of the best, no-bullshit and hands-on books on software architecture I've ever read. I highly recommend you to read it - this is a true repository of knowledge and a really good read. 
 
-One of the concepts introduced there was an **_integration point_**. An **_integration point_** is every single place where your application talks to the outside world. It can a payment processing provider for your online shop, an authentication provider if you're using [OAuth](https://oauth.net/2/) or it can be a cron job that runs daily and populates your database with the latest stock market information - in fact it can be any third party API you rely on. 
+One of the concepts introduced there was an **_integration point_**. An **_integration point_** is every single place where your application talks to the outside world. It can be a payment processing provider for your online shop, an authentication provider if you're using [OAuth](https://oauth.net/2/) or it can be a cron job that runs daily and populates your database with the latest stock market information - in fact it can be any third party API you rely on. 
 
 But **_integration points_** are not restricted to third party services. In fact, it can be any remote procedure call and in the era of microservices, we incorporate more and more of them to our applications. 
 
@@ -46,4 +46,4 @@ Another pattern that complements **_circuit breaker_** is **_timeout_**. **_Time
 
 ## Summary
 
-In this post I've introduced to you the problem that **_integration points_** entails and how you can counter then using **circuit breaker** and **_timeout_** patterns. I'm planning to write more about good practices in software architecture soon and I hope you've found this post informative and helpful.
+In this post I've introduced to you the problem that **_integration points_** entail and how you can counter them using **circuit breaker** and **_timeout_** patterns. I'm planning to write more about good practices in software architecture soon and I hope you've found this post informative and helpful.
