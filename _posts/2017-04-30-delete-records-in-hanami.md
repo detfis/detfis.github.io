@@ -37,19 +37,19 @@ end
 
 ## Delete record
 
-Our next task is to generate **_destroy_** action in the **_words controller_**. To do this type:
+Our next task is to generate **_destroy_** action in the **_words controller_**. To do this, type:
 
 ```
 bundle exec hanami generate action web words#destroy --method=delete
 ```
 
-As a result, we have an action that will be responsible for handling DELETE requests that will be used for deleting words. Let's change a little **_config/routes.rb_** file as well so we will have a named route:
+As a result, we have an action that will be responsible for handling DELETE requests, which will be used for deleting words. Let's change a little **_config/routes.rb_** file as well so we will have a named route:
 
 ```ruby
 delete '/words/:id', to: 'words#destroy', as: :destroy_word
 ```
 
-Let's implement the action now. It's simple action that will be very similar to the update action that we implemented in [this blog post]({{ site.url }}/update-record-in-hanami/). 
+Let's implement the action now. It's a simple action that will be very similar to the update action that we implemented in [this blog post]({{ site.url }}/update-record-in-hanami/). 
 
 Open **_apps/web/controllers/words/destroy.rb_** and add this code:
 

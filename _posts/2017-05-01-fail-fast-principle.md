@@ -7,7 +7,7 @@ description: Improving stability of your system by applying Fail Fast principle
 
 # Fail Fast Principle
 
-In [one of the previous posts]({{ site.url }}/what-are-integration-points/) I talked about **_circut breaker_** and **_timeout_** patterns as a way of improving the stability of your application. In this blog post I will talk about a pattern that compliments the previous ones - **_Fail Fast_**.
+In [one of the previous posts]({{ site.url }}/what-are-integration-points/) I talked about **_circut breaker_** and **_timeout_** patterns as a way of improving the stability of your application. In this blog post I will talk about a pattern that complements the previous ones - **_Fail Fast_**.
 
 This pattern is also taken from the excellent [Release It!Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it) book and I recommend that you will read it.
 
@@ -29,7 +29,7 @@ Import thing when you apply **_Fail Fast Principle_** is correct failure reporti
 
 ## How does it work with Circut Breakers and Timeouts?
 
-As I mentioned before - **_Fail Fast_** works as a compliment of **_Circut Breaker_** and **_Timeout_** patterns. Both helps you deal prevent cascading failures. **_Circut Breaker_** and **_Timeout_** deal with incoming requests by giving up when appropriate. For incoming requests you should **_Fail Fast_** if you are not able to process the request.
+As I mentioned before - **_Fail Fast_** works as a complement of **_Circut Breaker_** and **_Timeout_** patterns. Both helps you deal prevent cascading failures. **_Circut Breaker_** and **_Timeout_** deal with incoming requests by giving up when appropriate. For incoming requests you should **_Fail Fast_** if you are not able to process the request.
 
 ## Summary
 
