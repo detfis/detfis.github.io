@@ -17,11 +17,11 @@ Now it's possible to add a new record without a name or translation - maybe in t
 
 Code which responsibility is to perform validations has been factored out and lives in the gem called [hanami-validations](https://github.com/hanami/validations). Under the hood, it uses a great gem called [dry-validation](https://github.com/dry-rb/dry-validation). I highly recommend to check this out - it's one of my favorite gems and I use it even in my rails apps. 
 
-[link]Hanami proposes a little different approach for validation than for example Rails. In Rails you initialize the object and then you check if this object is valid. In [link]Hanami you validate the params first and only if the params are valid you create a new object. Thanks to that you avoid having objects that are in the invalid state (at least during initialization). You can read why this is a good thing in the Piotr Solnica [blog post](http://solnic.eu/2015/12/28/invalid-object-is-an-anti-pattern.html) who is also the creator of the [dry-validation](https://github.com/dry-rb/dry-validation) gem.
+[Hanami](http://hanamirb.org/) proposes a little different approach for validation than for example Rails. In Rails you initialize the object and then you check if this object is valid. In [Hanami](http://hanamirb.org/) you validate the params first and only if the params are valid you create a new object. Thanks to that you avoid having objects that are in the invalid state (at least during initialization). You can read why this is a good thing in the Piotr Solnica [blog post](http://solnic.eu/2015/12/28/invalid-object-is-an-anti-pattern.html) who is also the creator of the [dry-validation](https://github.com/dry-rb/dry-validation) gem.
 
 ## Adding validation in Hanami
 
-In [link]Hanami we are validating params, so a controller is a place where we do this. To add validation to our project add this code:
+In [Hanami](http://hanamirb.org/) we are validating params, so a controller is a place where we do this. To add validation to our project add this code:
 
 ```ruby
 params do

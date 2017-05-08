@@ -33,7 +33,7 @@ Obviously, the main barrier to making QA's topology exactly the same as producti
 
 ## Zero, One, Many
 
-There is an old saying that the only sensible numbers in the computer science industry are 0, 1 and many. There is a fundamental difference between 1-to-1 and 1-to-many communication. You can't test many scenarios if in your QA env you are using single instance, while in production you run a couple of them. On the other hand, if your production environment uses dozens of servers it doesn't mean that you have to run dozens in QA - 2 will usually do.
+There is an old saying that the only sensible numbers in the computer science industry are 0, 1 and many. There is a fundamental difference between 1-to-1 and 1-to-many communication. You can't test many scenarios if in your QA env you are using single instance, while in production you run a couple of them. On the other hand, if your production environment uses dozens of servers, it doesn't mean that you have to run dozens in QA - 2 will usually do.
 
 ## You play the way you practice
 
