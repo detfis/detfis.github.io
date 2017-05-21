@@ -23,17 +23,17 @@ Another difficulty was to predict how long the article will be - I usually had a
 
 Another big challenge was to start writing in English. It would be definitely easier to start blogging in Polish. So why I've decided to start blogging in English? There are 2 main reasons:
 * I started my project in a very niche technology and I was afraid that my potential audience will be too narrow if I started to blog in Polish
-* second reason is more selfish - I take every opportunity to improve my English I knew I would a great exercise for me
+* second reason is more selfish - I take every opportunity to improve my English and I knew it may be a great exercise for me.
 
 Despite some drawbacks - like the pace of creating content, occasional frustration from inability to convey my thoughts clearly in foreign English and involving other people to check my text before publishing it - it turned out to be a great decision! I'm always super happy when I log into my Google Analytics account and I see that some people from Ukraine, Brazil or USA visited my blog. I wouldn't be possible if I decided to blog in Polish.
 
-Another difficulty was to actually find those additional hours in my schedule to sit down and develop the project and write content for my blog. It all boils down to prioritizing, so I had to put some things aside so I can focus on this blog. Like always, it turned out that lack of time is only an excuse and if you decide what is important you always can find the way to do this. I still have a lot learn in the area of planning my blogging tasks, but I'm getting better with every single post I create.
+Another difficulty was to actually find those additional hours in my schedule to sit down and develop the project and write content for my blog. It all boils down to prioritizing, so I had to put some things aside so I can focus on this blog. Like always, it turned out that lack of time is only an excuse and if you decide what is important, you always can find the way to do this. I still have a lot learn in the area of planning my blogging tasks, but I'm getting better with every single post I create.
 
 ## Did I learn something?
 
 I've learned *A LOT* during the last couple of weeks. One of the things I have discovered is that I actually really enjoy blogging. I like writing blog posts, I like thinking what should I write about and planning how my blog post should be structured. It's a great fun and gives me a lot of pleasure.
 
-Next thing I figure out was that I love sharing knowledge with other people. I always try to think if the content I present would be useful to the reader. Feeling that I can help someone learn something is very rewarding - and it's probably the most important reason why I'll stick to blogging.
+Next thing I figured out was that I love sharing knowledge with other people. I always try to think if the content I present would be useful to the reader. Feeling that I can help someone learn something is very rewarding - and it's probably the most important reason why I'll stick to blogging.
 
 Blogging also helped me be more disciplined and focused - taking into consideration my already busy schedule I had to plan ahead when I'll be able to write a next blog post. When I planned it, I had to execute it - I was able to put aside laziness and get to work. As I was saying before - sometimes I wasn't able to plan everything properly. In this cases, I had do pull an all-nighter once or twice, but the article was always on time - and it was very rewarding.
 
