@@ -3,6 +3,8 @@ layout: default
 ---
 <section id="main_content">
   {{ content }}
+
+  Written on {{ page.date | date: "%B %e, %Y" }}
   <div id="disqus_thread"></div>
   <script>
   /**
