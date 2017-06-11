@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SOLID - Single Responsibility Principle
-categories: "software architecture" "software engineering" solid
-description: What Single Responsibility Principle is, why it is so important and how to apply it.
+categories: solid "software architecture" "software engineering"
+description: What Single Responsibility Principle is, why it is so important and how to apply it
 ---
 
 # Single Responsibility Principle
