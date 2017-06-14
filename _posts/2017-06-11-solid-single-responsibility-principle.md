@@ -2,16 +2,16 @@
 layout: post
 title: SOLID - Single Responsibility Principle
 categories: solid "software architecture" "software engineering"
-description: What Single Responsibility Principle is, why it is so important and how to apply it
+description: What is Single Responsibility Principle, why it is so important and how to apply it
 ---
 
 # Single Responsibility Principle
 
-With this blog post, I'm starting a series of posts that will describe every single [link]SOLID principle. In those posts, I will give you a definition of the rule, why it's useful, how to apply it and I'll give you examples of the code that break and obey this particular rule. My goal is, that after every post you will have a strong understanding of every principle, you will be able to determine whether a given piece of code complies with it and will be able to use it in your own project.
+With this blog post, I'm starting a series of posts that will describe every single [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) principle. In those posts, I will give you a definition of the rule, why it's useful, how to apply it and I'll give you examples of the code that break and obey this particular rule. My goal is, that after every post you will have a strong understanding of every principle, you will be able to determine whether a given piece of code complies with it and will be able to use it in your own project.
 
 ## What is SOLID?
 
-SOLID is an acronym coined by Michael Feathers for the five basic principles of object-oriented design introduced by [link]Robert C.Martin, known in the IT community as Uncle Bob in the early 2000s.
+SOLID is an acronym coined by Michael Feathers for the five basic principles of object-oriented design introduced by [Robert C.Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin), known in the IT community as Uncle Bob in the early 2000s.
 
 Those principles are:
 * S - Single Responsibility Principle
@@ -20,7 +20,7 @@ Those principles are:
 * I - Interface Segregation Principle
 * D - Dependency Inversion Principle
 
-Why is it relevant for you? Should you care about software design principles invented almost 20 years ago? Definitely YES! The premise of this principles is that if you follow them, they will guide you towards a good design of your system. This is very useful, because very often when you start coding you don't know how to structure your application, where to put given a piece of code or functionality, and [link]SOLID principles "reveal" to you proper design of your system. 
+Why is it relevant for you? Should you care about software design principles invented almost 20 years ago? Definitely YES! The premise of this principles is that if you follow them, they will guide you towards a good design of your system. This is very useful, because very often when you start coding you don't know how to structure your application, where to put given a piece of code or functionality, and [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) principles "reveal" to you proper design of your system. 
 
 What is a "good design", you may ask? It's a very good question - since "good design" is a very elusive term. Probably every software developer has its own definition of it. I'll share with you mine - good design gives you 2 main things:
 
@@ -48,7 +48,7 @@ There is a simple way of checking if your class does only 1 thing - describe in 
 * if you're saying: _"my class does this **AND** this"_, it means it has 2 responsibilities instead of one 
 * if you're saying: _"my class does this **OR** this"_, it's even worse, because your class has 2 responsibilities which aren't related to each other
 
-Sandi Metz in her book [link]Practical Object-Oriented Design in Ruby, which I highly recommend reading even if you're not Ruby developer, describes a great way of checking if this particular function belongs to correct class. Let's say you have a class `User` which has a function that returns his full name, address, and content of email when a user requests a password change. 
+Sandi Metz in her book [Practical Object-Oriented Design in Ruby](http://www.poodr.com/), which I highly recommend reading even if you're not Ruby developer, describes a great way of checking if this particular function belongs to correct class. Let's say you have a class `User` which has a function that returns his full name, address, and content of email when a user requests a password change. 
 
 To determine if this function belongs to the correct class you have to ask a _class name_ to do for you, what this _function_ is supposed to do. It may not be clear when I describe it, but after seeing a couple of examples you will get what I mean:
 
