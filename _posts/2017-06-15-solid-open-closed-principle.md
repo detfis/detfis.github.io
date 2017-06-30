@@ -2,7 +2,7 @@
 layout: post
 title: SOLID - Open / Closed Principle
 categories: solid "software architecture" "software engineering"
-description: What is Open / Closed Principle, why does it matter and how to apply it?
+description: What is an Open / Closed Principle, why does it matter and how to apply it?
 ---
 
 # Open / Closed Principle
